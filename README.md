@@ -53,6 +53,7 @@ The dataset used in this project was extracted from a database and contains the 
 - **product_name**: Name of the product sold
 - **product_price**: Price of the product
 
+> **Note:** Sample data is provided for illustration purposes. Sensitive or proprietary information has been removed.
 ---
 
 ### Database Model
