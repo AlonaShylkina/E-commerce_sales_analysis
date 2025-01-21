@@ -6,11 +6,11 @@ This repository contains the code and resources for a project conducted using Go
 - [Project Overview](#project-overview)
 - [Key Tools and Technologies](#key-tools-and-technologies)
     - [Tableau Dashboard](#tableau-dashboard)
-3. [Dataset](#dataset)
-4. [Database Model](#database-model)
-5. [Python Libraries Used](#python-libraries-used)
-6. [Project Workflow](#project-workflow)
-7. [Results and Insights](#results-and-insights)
+- [Dataset](#dataset)
+- [Database Model](#database-model)
+- [Python Libraries Used](#python-libraries-used)
+- [Project Workflow](#project-workflow)
+- [Results and Insights](#results-and-insights)
 
 ---
 
