@@ -3,8 +3,8 @@
 This repository contains the code and resources for a project conducted using Google Colab to analyze E-commerce sales data. The project involved direct connection from Google Colab to Google BigQuery, with SQL queries written to extract data, and Tableau used for visualizing the results in a dashboard. The final visualizations are hosted on Tableau Public.
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Key Tools and Technologies](#key-tools-and-technologies)
+- [Project Overview](#project-overview)
+- [Key Tools and Technologies](#key-tools-and-technologies)
     - [Tableau Dashboard](#tableau-dashboard)
 3. [Dataset](#dataset)
 4. [Database Model](#database-model)
