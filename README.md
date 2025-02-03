@@ -65,10 +65,10 @@ The database model used in this project is provided as a PNG file. Refer to `dat
 The following Python libraries were used to process and analyze the data in Google Colab:
 - **Google Cloud BigQuery SDK**: `from google.cloud import bigquery`
 - **Authentication**: `from google.oauth2 import service_account`
-- **Data Manipulation**: `import pandas as pd`, `import numpy as np`
-- **Visualization**: `import matplotlib.pyplot as plt`, `import seaborn as sns`, `import matplotlib.ticker as mticker`
-- **Statistical Analysis**: `from scipy.stats import pearsonr`
-- **Google Drive Integration**: `from google.colab import drive`
+- **Data Manipulation**: `pandas`, `numpy`
+- **Visualization**: `matplotlib`, `seaborn`
+- **Statistical Analysis**: `scipy.stats`
+- **Google Drive Integration**: `google.colab`
 
 ---
 
