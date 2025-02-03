@@ -80,5 +80,36 @@ The following Python libraries were used to process and analyze the data in Goog
 
 ---
 
-### Results 
+### Results and Insights
+General information:
+- the analysis period is from 2020-11-01 to 2021-01-31
+- the number of unique sessions is 349,545
+- the total number of orders is 33,538
+- the total number of customers with a registered account is 27,945
+- the biggest number of customers with registered accounts is in United States - 12,384. This is the vast majority, as India and Canada took 2nd and 3rd place with 2,687 and 2,067 registered accounts, respectively.
+- most of the user's sessions were conducted on desktops - 58,48%
+- most of the user's sessions were conducted on Chrome browser - 68,22%  
+- the company works with 107 countries on 5 continents
+- the highest sales is in United States - $ 13,943,553.9. This is the vast majority, as India and Canada took 2nd and 3rd place with sales of $ 2,809,762.0 and             $ 2,437,921.0 respectively. The situation is the same for the number of orders: Uniter States - 14,673; India - 3,029; Canada - 2,560.
+- the company sells 14 product categories
+- the company sold the most in "Bookcases & shelving units" product category - 7630 units
+- the most profitable product category is "Sofas & armchairs" with sales of $ 8,388,254.5
+- the company generates the highest sales ($11,433,151.60) and the highest number of orders (11,921) from organic search.
+- the company generates the highest sales ($18,864,039.00) and the highest number of orders (19,702) from desktop orders.
+
+---
+
+- a correlation of 0.79 indicates a strong positive relationship between Total Sessions and Total Sales, meaning that more sessions lead to more sales.
+- the correlations between Americas and Asia, Americas and Europe, Asia and Europe are statistically significant. It suggests that there is a meaningful relationship between sales on the continents (which could be due to global trends, market interdependencies, economic, or even political events). They are not entirely independent, and business strategies should account for the interconnectedness of global markets.
+- correlation range of 0.51 to 0.66 between sales of top 5 product categories (Beds, Bookcases & shelving units, Cabinets & cupboards, Chairs, Sofas & armchairs) indicates a moderate to strong positive correlation between sales across product categories. This means that when sales increase in one category, sales in the other category tend to increase as well. Since the p-value is less than 0.05, the correlation is statistically significant, meaning that the relationship observed is not due to randomness, and there is a real underlying connection between the sales of these product categories.
+
+---
+
+Customers subscribed to the company's marketing emails generally place more orders and spend more than those who are unsubscribed. This could indicate that email marketing makes a significant impact—when customers are aware of campaigns, discounts, etc., they are more likely to make purchases.
+
+Sales dynamics, both overall and by continent/device, show spikes in the second half of December, likely due to pre-holiday purchases, and in early January, which may be related to the holiday weekend and discounts. The increase in sales on certain dates at the end of November is likely related to Black Friday and Cyber Monday discounts, along with Thanksgiving preparations in the US and Canada.
+The spike on November 1st may mark the transition from Halloween sales to early promotions for the holiday shopping season. There may have been discounts on leftover Halloween items.
+
+
+
 
