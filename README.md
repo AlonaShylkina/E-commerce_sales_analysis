@@ -74,7 +74,7 @@ The following Python libraries were used to process and analyze the data in Goog
 
 ### Project Workflow
 1. **Extract Data from Google BigQuery**: SQL queries were written and executed directly in Google Colab to extract the required sales data from Google BigQuery.
-2. **Data Processing & Analysis**: Data was cleaned, processed, and analyzed using Python libraries such as Pandas, NumPy, and SciPy.
+2. **Data Processing & Analysis**: Data was processed and analyzed using Python libraries such as Pandas, NumPy, and SciPy.
 3. **Data Visualization**: The analyzed data was visualized using Matplotlib and Seaborn.
 4. **Interactive Dashboard**: The results were exported to Tableau for creating a comprehensive dashboard that displays key insights from the analysis.
 
