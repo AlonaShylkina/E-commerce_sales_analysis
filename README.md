@@ -63,12 +63,12 @@ The database model used in this project is provided as a PNG file. Refer to `dat
 
 ### Python Libraries Used
 The following Python libraries were used to process and analyze the data in Google Colab:
-- **Google Cloud BigQuery SDK**: `from google.cloud import bigquery`
-- **Authentication**: `from google.oauth2 import service_account`
+- **Google Cloud BigQuery SDK**: `google.cloud.bigquery`
+- **Authentication**: `google.oauth2.service_account`
 - **Data Manipulation**: `pandas`, `numpy`
 - **Visualization**: `matplotlib`, `seaborn`
 - **Statistical Analysis**: `scipy.stats`
-- **Google Drive Integration**: `google.colab`
+- **Google Drive Integration**: `google.colab.drive`
 
 ---
 
@@ -80,5 +80,5 @@ The following Python libraries were used to process and analyze the data in Goog
 
 ---
 
-### Results and Insights
-The results from the analysis include insights into sales trends, customer behavior, and product performance. The dashboard on Tableau Public provides detailed visualizations that allow for further exploration of the data.
+### Results 
+
